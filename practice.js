@@ -198,7 +198,6 @@ function getUserById(arr, id, cb){
       cb(arr[i])
     }
   }
-
 }
 
 // Do not edit the code below.
